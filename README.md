@@ -27,20 +27,79 @@ Aqui eu tenho um Parágrafo
 Permitem criar listas ordenadas ou não ordenadas.
 
 Exemplo:
-Lista não ordenada:
+Lista não Ordenada:
 
 * Item 1
 * Item 2
 * Item 3
 
 
+Lista Ordenada:
+
+1. Primeiro Item
+2. Segundo Item
+3. Terceiro Item
+
+
+## Links
+Criam links para outras páginas da web.
+
+Exemplo:
+[Texto do link](URL). para criar um link.
 
 
 ## Imagens
+Inserir Imagens em um Documento Markdown.
+
+Exemplo:
+
+![Imagem](URL_da_Imagem)
+
+
 ## Ênfase 
+
+Permitem enfatizar texto, como itálico, negrito, tachado, subscrito.
+
+Exemplo:
+
+*texto em itálico* ou _texto em itálico_ para itálico. **texto em negrito** ou __texto em negrito__ para negrito.
+
+
+~~Texto em tachado~~
+
+Aqui é um texto <sub> subscrito </sub>
+
+Aqui é um texto <sup> sobrescrito </sup>
+
 ## Citacoes em bloco
+Sao Usadas para destacar uma citacao ou bloco de texto.
+
+Exemplo:
+
+> Isso é uma citacao de bloco.
+
+
 ## Linhas Horizontais
+Sao usadas para criar uma linha horizontal para separar secoes do documento.
+
+Exemplo:
+
+---
+
+
 ## Codigo
+Permitem inserir blocos de código ou destacar código dentro do texto.
+
+Exemplo:
+
+Use crases (l*) para inserir código "inline",
+
+'''
+idade = 18
+print(f"A idade é (idade)")
+'''
+
+
 ## Tabelas
 ## Listas de Tarefas
 ## Referencias
