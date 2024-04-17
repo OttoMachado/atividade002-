@@ -101,10 +101,51 @@ print(f"A idade é (idade)")
 
 
 ## Tabelas
+Criam Tabelas Organizadas em colunas e linhas.
+
+Exemplo:
+| Cabecalho 1 | Cabecalho 2 |
+|-------------|-------------|
+| Dado 1      | Dado 2      |
+| Dado 3      | Dado 4      |
+
+
+
 ## Listas de Tarefas
-## Referencias
-## Notas de Rodapé
+
+Criam listas de tarefas que podem ser marcadas como concluídas ou pendentes.
+Exemplo:
+- [x] Tarefa concluída
+- [ ] Tarefa pendente
+
+
+## Referencias e nota de rodapé
+
+Permitem adicionar notas de rodapé para fornecer mais informações sobre o conteúdo do documento.
+Exemplo:
+Aqui é um exemplo de marcação em rodapé[^1].
+A aula é com o Ricardo{ˆ2].
+[ˆ1): Rodapé: conteúdo inferior do documento.
+[ˆ2]: Ricardo: Professor da turma de Git.
+
 ## Alertas
+
+são usados para destacar informações importantes, como notas, avisos ou mensagens.
+
+Exemplo:
+
+› **Note**
+› Esta é uma Nota
+
+› [INOTE]
+› Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
+
+› [IMPORTANT]
+› Informações cruciais necessárias para o sucesso dos usuários.
+
+› [IMARNING].
+› conteúdo crítico que exige atenção imediata do usuário devido a riscos potenciais.
+
 
 
 
