@@ -53,7 +53,8 @@ Inserir Imagens em um Documento Markdown.
 
 Exemplo:
 
-![Imagem](URL_da_Imagem)
+![Imagem](![enel](https://github.com/OttoMachado/atividade002-/assets/158228292/b49d91bc-ee31-4be8-8614-3b6e1c412286)
+)
 
 
 ## Ênfase 
